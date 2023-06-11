@@ -1,0 +1,81 @@
+{
+  "navigation": [
+		{
+			"title": "About",
+			"url": "http://www.example.com/about"
+		},
+		{
+			"title": "Projects",
+			"url": "http://www.example.com/portfolio"
+		},
+		{
+			"title": "Contact",
+			"url": "http://www.example.com/contact"
+		}
+	],
+  "hero": {
+    "name": "Beatrice Abrahamsson",
+    "subtitle": "I'm A Web Developer."
+  },
+  "about": {
+    "title": "About me",
+    "image": "/profile.jpg",
+    "pdf": "/resume.pdf",
+    "primary": "I'm a recent graduate with experience in both frontend and backend development. I have a strong passion for problem-solving and user-centric development, and I'm eager to grow and learn.",
+    "secondary": "I've previously also earned a teaching degree, a bachelor's degree in English, and a bachelor's degree in religion. These diverse academic pursuits have given me a well-rounded skill set and a unique perspective in the world of web development."
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Manage Packages - Gameplan",
+        "description": "This project was executed during my internship at Learn2Esport. My assignment was to update and improve the pages involving package management on their platform Gameplan. I am unable to show the source code since it belongs to the company.",
+        "technologies": "React, Typescript, SCSS, GraphQL",
+        "url": "https://www.youtube.com/watch?v=GIGr7WIHN9M",
+        "github": "",
+        "image": "/gameplan.png"
+      },
+      {
+        "title": "D'oro - Italian Restaurant",
+        "description": "This project is a webpage for the fictional italian restaurant D'oro and consists of three parts. The first part is a public webpage where customers can see the menu, book a table, leave a review and contact the restaurant. The second part is a admin interface where staff can log in and alter the menu. And the last part is a webservice to store the data.",
+        "technologies": "REST API, Gulp, SASS, Node.js, Typescript, PHP",
+        "url": "https://doro-restaurant.netlify.app/",
+        "github": "https://github.com/beaabrahamsson/Doro_Restaurant",
+        "image": "/doro.png"
+      },
+      {
+				"title": "Gläntan - Bed & Breakfast",
+				"description": "This project is a website for the fictional company Glämtan Bed & Breakfast. The website uses WordPress as a CMS and a new theme has been created.",
+				"technologies": "Wordpress, PHP, CSS, JavaScript",
+        "url": "https://studenter.miun.se/~beab2100/writeable/dt197g/Wordpress/",
+        "github": "https://github.com/beaabrahamsson/Glantan_Bed_and_Breakfast",
+				"image": "/glantan.png"
+			},
+      {
+				"title": "Mitt Bibliotek - Book App",
+				"description": "This project is a library application for storing information about books. Books can be added and removed from the API easily through the application interface.",
+				"technologies": "Vue, JavaScript, Bulma, MongoDB, Express",
+        "url": "",
+        "github": "https://github.com/beaabrahamsson/Book_App",
+				"image": "/book.png"
+			},
+      {
+				"title": "Humble Boutique",
+				"description": "This project is an online store for the fictional company Humble Boutique that sells second hand items. The biggest focus in this project was image processing.",
+				"technologies": "HTML, CSS, JavaScript",
+        "url": "https://humbleboutique.netlify.app/",
+        "github": "https://github.com/beaabrahamsson/Humble_Boutique",
+				"image": "/humble.png"
+			}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
+    "formId": "mlekyyna"
+  },
+  "footer": {
+		"linkedin": "https://www.linkedin.com/in/beatrice-abrahamsson-300b7a13a/",
+		"github": "https://github.com/beaabrahamsson"
+	}
+}
